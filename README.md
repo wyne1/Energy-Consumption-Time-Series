@@ -2,7 +2,6 @@
 ***
 
 ## Individual household electric power consumption Data Set
-#### link: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
 ***
 
@@ -33,3 +32,5 @@
 > https://machinelearningmastery.com/multi-step-time-series-forecasting-with-machine-learning-models-for-household-electricity-consumption/
 
 > https://pythondata.com/forecasting-time-series-autoregression/
+
+> #### Dataset: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
