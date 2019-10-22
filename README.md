@@ -7,12 +7,14 @@
 
 #### Primarily trying to device the method that could be used to forecast energy consumption of the upcoming month, based on one months data only. A lot of experimentations done over different models. The experimentation is demonstrated and results are plotted as well.
 
-#### **The 4 methods that are worked upon are:**
+#### **The 5 methods that are worked upon are:**
 
 > ####   1 - ARIMA Forecasting for 1 timestep and for whole month
 > ####   2 - Facebook Prophet forecasting based on variable amount of training data
-> ####   3 - Using simple Moving Average to see the overall monthly consumptions
-> ####   4 - Using Deep Learning for Time Series modeling
+> ####   3 - Using Auto Regression (AR) with walk-forward validation 
+> ####   4 - Using Moving Average (MA) with anamoly detection within data
+> ####   5 - Using Deep Learning for Time Series modeling
+
 
 ***
 
@@ -26,7 +28,7 @@
 > #### **Percent Error = ( |Experimental Value – Theoretical Value| ÷ Theoretical Value) x 100**
 
 ### NOTE
-#### You will have to clean and preprocess the data that you download for missing values. For help with that preprocessing, refer to the reference 1 and 2 of Jason Brownlee's machinelearningmastery blog.
+#### You will have to clean and preprocess the data that you download for missing values. For help with that preprocessing, refer to the reference 1 and 2 of **Jason Brownlee's machinelearningmastery blog.**
 
 ### Refrences
 > https://machinelearningmastery.com/how-to-develop-an-autoregression-forecast-model-for-household-electricity-consumption/
