@@ -25,3 +25,10 @@
 #### The accuracy of overall energy consumption is deduced through the following simple metric:
 
 > #### **Percent Error = ( |Experimental Value – Theoretical Value| ÷ Theoretical Value) x 100**
+
+### NOTE
+#### You will have to clean and preprocess the data that you download for missing values. For help with that preprocessing, refer to the references provided
+
+### Refrences
+> https://machinelearningmastery.com/multi-step-time-series-forecasting-with-machine-learning-models-for-household-electricity-consumption/
+> https://pythondata.com/forecasting-time-series-autoregression/
