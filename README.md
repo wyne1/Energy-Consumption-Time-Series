@@ -26,9 +26,11 @@
 > #### **Percent Error = ( |Experimental Value – Theoretical Value| ÷ Theoretical Value) x 100**
 
 ### NOTE
-#### You will have to clean and preprocess the data that you download for missing values. For help with that preprocessing, refer to the references provided
+#### You will have to clean and preprocess the data that you download for missing values. For help with that preprocessing, refer to the reference 1 and 2 of Jason Brownlee's machinelearningmastery blog.
 
 ### Refrences
+> https://machinelearningmastery.com/how-to-develop-an-autoregression-forecast-model-for-household-electricity-consumption/
+
 > https://machinelearningmastery.com/multi-step-time-series-forecasting-with-machine-learning-models-for-household-electricity-consumption/
 
 > https://pythondata.com/forecasting-time-series-autoregression/
